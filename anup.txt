@@ -1,3 +1,2 @@
 Hello,
-this is Anupam from 
-LC :)
+this is Anupam from LC :)
